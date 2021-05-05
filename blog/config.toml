@@ -1,0 +1,4 @@
+baseURL = "http://bilenkis.github.io/"
+languageCode = "en-us"
+title = "Bilenkis Blog"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
